@@ -1,4 +1,4 @@
-# Hi, I'm Doaa Magdy 👋
+# Hi, I'm Doaa Magdy 
 
 ### Computer Science Student | Full-Stack Developer
 
@@ -10,12 +10,12 @@ Currently, I'm focusing on **Backend Development with Node.js** while improving 
 
 ## About Me
 
-* 🎓 Computer Science Student
-* 💻 Interested in Full-Stack Web Development
-* 🔭 Currently learning Backend Development with Node.js
-* 🌱 Improving my TypeScript, Angular, and DSA skills
-* 🧠 Practicing problem solving and competitive programming
-* 🚀 Interested in Open Source and real-world projects
+*  Computer Science Student
+*  Interested in Full-Stack Web Development
+*  Currently learning Backend Development with Node.js
+*  Improving my TypeScript, Angular, and DSA skills
+*  Practicing problem solving and competitive programming
+*  Interested in Open Source and real-world projects
 
 ---
 
