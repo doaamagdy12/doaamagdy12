@@ -1,4 +1,4 @@
-# Hi, I'm Doaa Magdy 
+# Hi, I'm Doaa Arfa
 
 ### Computer Science Student | Full-Stack Developer
 
